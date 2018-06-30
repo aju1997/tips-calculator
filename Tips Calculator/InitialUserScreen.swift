@@ -38,6 +38,7 @@ class InitialUserScreen: UIViewController {
     func doubleToString() {
         stringTipAmount = String(format: "%.2f", doubleTipAmount)
         stringTotalAmount = String(format: "%.2f", doubleTotalAmount)
+        
         stringUserAmount = String(format: "%.2f", doubleAmount)
     }
     
@@ -67,6 +68,7 @@ class InitialUserScreen: UIViewController {
     }
     
     @IBAction func calculateTip(_ sender: Any) {
+        
         if !((userAmount.text?.isEmpty)!) && !((userTipPercentage.text?.isEmpty)!) {
             performSegue(withIdentifier: "MoveToFinal", sender: self)
         }

@@ -26,6 +26,7 @@ class FinalAmount: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
         enteredAmount?.text = userAmountPassed
         tipAmount?.text =  userTipAmountPassed
         totalAmount?.text = userTotalAmountPassed
