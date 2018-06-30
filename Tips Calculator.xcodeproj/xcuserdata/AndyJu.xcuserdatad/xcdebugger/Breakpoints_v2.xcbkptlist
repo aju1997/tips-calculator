@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tips Calculator/InitialUserScreen.swift"
+            timestampString = "551760396.912742"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "InitialUserScreen"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips_Calculator.InitialUserScreen.stringTipAmount.getter : Swift.String"
+                  moduleName = "Tips Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AndyJu/Documents/AppDevelopment/Tips/Tips%20Calculator/Tips%20Calculator/InitialUserScreen.swift"
+                  timestampString = "551760423.274931"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips_Calculator.InitialUserScreen.stringTipAmount.setter : Swift.String"
+                  moduleName = "Tips Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AndyJu/Documents/AppDevelopment/Tips/Tips%20Calculator/Tips%20Calculator/InitialUserScreen.swift"
+                  timestampString = "551760423.278914"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips_Calculator.InitialUserScreen.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Tips_Calculator.InitialUserScreen"
+                  moduleName = "Tips Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AndyJu/Documents/AppDevelopment/Tips/Tips%20Calculator/Tips%20Calculator/InitialUserScreen.swift"
+                  timestampString = "551760423.282958"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "197">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips_Calculator.InitialUserScreen.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tips_Calculator.InitialUserScreen&gt;"
+                  moduleName = "Tips Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/AndyJu/Documents/AppDevelopment/Tips/Tips%20Calculator/Tips%20Calculator/InitialUserScreen.swift"
+                  timestampString = "551760423.286137"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tips Calculator/FinalAmount.swift"
+            timestampString = "551767728.52132"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tips Calculator/InitialUserScreen.swift"
+            timestampString = "551768791.699109"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
